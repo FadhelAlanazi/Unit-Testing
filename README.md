@@ -4,4 +4,4 @@
 
 ### and how to write a good unit test case.
 
-#### this project contains unit test example written in `iOS`. 
+#### this project contains unit test example written in `swift` language. 
